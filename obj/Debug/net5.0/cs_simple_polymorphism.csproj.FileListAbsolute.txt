@@ -1,0 +1,16 @@
+C:\william-git-software-projects\cs_simple_polymorphism\obj\Debug\net5.0\cs_simple_polymorphism.csproj.AssemblyReference.cache
+C:\william-git-software-projects\cs_simple_polymorphism\obj\Debug\net5.0\cs_simple_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\william-git-software-projects\cs_simple_polymorphism\obj\Debug\net5.0\cs_simple_polymorphism.AssemblyInfoInputs.cache
+C:\william-git-software-projects\cs_simple_polymorphism\obj\Debug\net5.0\cs_simple_polymorphism.AssemblyInfo.cs
+C:\william-git-software-projects\cs_simple_polymorphism\obj\Debug\net5.0\cs_simple_polymorphism.csproj.CoreCompileInputs.cache
+C:\william-git-software-projects\cs_simple_polymorphism\bin\Debug\net5.0\cs_simple_polymorphism.exe
+C:\william-git-software-projects\cs_simple_polymorphism\bin\Debug\net5.0\cs_simple_polymorphism.deps.json
+C:\william-git-software-projects\cs_simple_polymorphism\bin\Debug\net5.0\cs_simple_polymorphism.runtimeconfig.json
+C:\william-git-software-projects\cs_simple_polymorphism\bin\Debug\net5.0\cs_simple_polymorphism.runtimeconfig.dev.json
+C:\william-git-software-projects\cs_simple_polymorphism\bin\Debug\net5.0\cs_simple_polymorphism.dll
+C:\william-git-software-projects\cs_simple_polymorphism\bin\Debug\net5.0\ref\cs_simple_polymorphism.dll
+C:\william-git-software-projects\cs_simple_polymorphism\bin\Debug\net5.0\cs_simple_polymorphism.pdb
+C:\william-git-software-projects\cs_simple_polymorphism\obj\Debug\net5.0\cs_simple_polymorphism.dll
+C:\william-git-software-projects\cs_simple_polymorphism\obj\Debug\net5.0\ref\cs_simple_polymorphism.dll
+C:\william-git-software-projects\cs_simple_polymorphism\obj\Debug\net5.0\cs_simple_polymorphism.pdb
+C:\william-git-software-projects\cs_simple_polymorphism\obj\Debug\net5.0\cs_simple_polymorphism.genruntimeconfig.cache
